@@ -1,1 +1,4 @@
 Add for web git
+Add new lins
+
+Add to reset commit
