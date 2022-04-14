@@ -2,3 +2,5 @@ Add for web git
 Add new lins
 
 Add to reset commit
+Add to revert commit
+Add to revert commit
